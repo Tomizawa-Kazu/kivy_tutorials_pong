@@ -12,3 +12,7 @@ python -m venv 環境名
 1. 仮想環境に入る
 2. `cd pong`
 3. `python main.py`の実行
+
+
+### 画面イメージ
+![ゲーム画面](/img/game_img.png) 
